@@ -110,6 +110,6 @@ Los resultados (figuras, métricas, log, modelo) se guardan automáticamente en
 
 ## Referencia
 
-Cortes Cantoran, J. (2025). *Flujos normalizantes continuos para el muestreo
+Cortes Cantoran, J. (2026). *Flujos normalizantes continuos para el muestreo
 de distribuciones de Boltzmann*. Tesis de licenciatura, Facultad de Ciencias
 Físico-Matemáticas, BUAP.
