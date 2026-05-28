@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pth
+
+# Resultados generados
+resultados/
+
+# PDF de tesis
+*.pdf
+
+# Entornos virtuales
+.venv/
+env/
+
+# Sistema
+.DS_Store
